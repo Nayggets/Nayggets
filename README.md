@@ -7,34 +7,34 @@ Outside the professional sphere, I am an enthusiast of low-level development and
 
 ## Skills
 
-- Langage C : 90% 
+- Langage C : 
   ![█████████████](https://progress-bar.dev/90)
 
-- Langage C++ : 80%
+- Langage C++ : 
   ![████████████░](https://progress-bar.dev/80)
 
-- Langage x86_64 : 40%
+- Langage x86_64 : 
   ![████████░░░░](https://progress-bar.dev/40)
 
-- Langage x86_32 : 50%
+- Langage x86_32 : 
   ![█████████░░░](https://progress-bar.dev/50)
 
-- Langage x86_16 : 60%
+- Langage x86_16 : 
   ![██████████░░](https://progress-bar.dev/60)
 
-- Git : 80%
+- Git : 
   ![████████████░](https://progress-bar.dev/80)
 
-- Réseaux : 80%
+- Réseaux : 
   ![████████████░](https://progress-bar.dev/80)
 
-- GNS3 : 70%
+- GNS3 : 
   ![███████████░](https://progress-bar.dev/70)
 
-- Arduino : 70%
+- Arduino :
   ![███████████░](https://progress-bar.dev/70)
 
-- STM32 : 80%
+- STM32 :
   ![████████████░](https://progress-bar.dev/80)
 
 <!--
