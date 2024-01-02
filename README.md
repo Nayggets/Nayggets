@@ -49,11 +49,15 @@ Outside the professional sphere, I am an enthusiast of low-level development and
 - Operating system:
   ![█████████████](https://progress-bar.dev/90)
 
-- Embedded system
+- Embedded system:
   ![███████████░](https://progress-bar.dev/70)
 
-- System management
+- System management:
   ![███████████░](https://progress-bar.dev/70)
+
+- Hdl:
+  ![████████░░░░](https://progress-bar.dev/40)
+
 
 
 <!--
