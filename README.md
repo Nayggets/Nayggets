@@ -5,40 +5,56 @@ Currently, I am a student at the IUT (University Institute of Technology) in Mon
 
 Outside the professional sphere, I am an enthusiast of low-level development and building things from scratch. I enjoy comprehending the functioning of each layer. My dream is to create a machine entirely from scratch, from designing the CPU to programming software on it, encompassing the creation of the OS, network card drivers, file systems, and much more. During my free time, I engage in self-taught learning through platforms like Udemy or Coursera. I also undertake personal projects, as you can see below, which often revolve around network development, system development, cryptography, and embedded system development.
 
-## Skills
+## Skills and Knowledges
 
 - C Language:
   ![█████████████](https://progress-bar.dev/90)
 
-- C++ Language: 80%
+- C++ Language:
   ![████████████░](https://progress-bar.dev/80)
 
-- x86_64 Assembly Language: 40%
+- x86_64 Assembly Language:
   ![████████░░░░](https://progress-bar.dev/40)
 
-- x86_32 Assembly Language: 50%
+- x86_32 Assembly Language:
   ![█████████░░░](https://progress-bar.dev/50)
 
-- x86_16 Assembly Language: 60%
+- x86_16 Assembly Language:
   ![██████████░░](https://progress-bar.dev/60)
 
-- Git: 80%
+- Git:
   ![████████████░](https://progress-bar.dev/80)
 
-- Networking: 80%
+- Network:
   ![████████████░](https://progress-bar.dev/80)
 
-- GNS3: 70%
+- GNS3:
   ![███████████░](https://progress-bar.dev/70)
 
-- Arduino: 70%
+- Arduino:
   ![███████████░](https://progress-bar.dev/70)
 
-- STM32: 80%
+- STM32:
   ![████████████░](https://progress-bar.dev/80)
 
-- Unity: 60%
+- Unity:
   ![██████████░░](https://progress-bar.dev/60)
+
+- Linux: 
+  ![████████████░](https://progress-bar.dev/80)
+
+- Docker:
+  ![██████████░░](https://progress-bar.dev/60)
+
+- Operating system:
+  ![█████████████](https://progress-bar.dev/90)
+
+- Embedded system
+  ![███████████░](https://progress-bar.dev/70)
+
+- System management
+  ![███████████░](https://progress-bar.dev/70)
+
 
 <!--
 **Nayggets/Nayggets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
