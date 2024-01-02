@@ -7,35 +7,38 @@ Outside the professional sphere, I am an enthusiast of low-level development and
 
 ## Skills
 
-- Langage C : 
+- C Language:
   ![█████████████](https://progress-bar.dev/90)
 
-- Langage C++ : 
+- C++ Language: 80%
   ![████████████░](https://progress-bar.dev/80)
 
-- Langage x86_64 : 
+- x86_64 Assembly Language: 40%
   ![████████░░░░](https://progress-bar.dev/40)
 
-- Langage x86_32 : 
+- x86_32 Assembly Language: 50%
   ![█████████░░░](https://progress-bar.dev/50)
 
-- Langage x86_16 : 
+- x86_16 Assembly Language: 60%
   ![██████████░░](https://progress-bar.dev/60)
 
-- Git : 
+- Git: 80%
   ![████████████░](https://progress-bar.dev/80)
 
-- Réseaux : 
+- Networking: 80%
   ![████████████░](https://progress-bar.dev/80)
 
-- GNS3 : 
+- GNS3: 70%
   ![███████████░](https://progress-bar.dev/70)
 
-- Arduino :
+- Arduino: 70%
   ![███████████░](https://progress-bar.dev/70)
 
-- STM32 :
+- STM32: 80%
   ![████████████░](https://progress-bar.dev/80)
+
+- Unity: 60%
+  ![██████████░░](https://progress-bar.dev/60)
 
 <!--
 **Nayggets/Nayggets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
