@@ -60,8 +60,11 @@ On my free time I enjoy comprehending the functioning of each computer science's
 - System management:
   ![███████████░](https://progress-bar.dev/70)
 
-- Hdl:
-  ![████████░░░░](https://progress-bar.dev/40)
+- VHDL:
+  ![████████░░░░](https://progress-bar.dev/50)
+
+- Verilog:
+  ![████████░░░░](https://progress-bar.dev/50)
 
 
 
